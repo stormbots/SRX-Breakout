@@ -158,7 +158,7 @@ VOLTAGE</text>
 <text x="51.816" y="15.113" size="1.27" layer="21" font="vector" ratio="15" distance="30" rot="SR270" align="top-center">TALON SRX
 SENSOR
 BREAKOUT
-V2</text>
+V3</text>
 <dimension x1="58.42" y1="24.13" x2="48.2346" y2="14.605" x3="56.134" y3="19.3675" textsize="1.27" textratio="15" layer="47" dtype="vertical" unit="mil"/>
 <text x="30.734" y="23.114" size="1.27" layer="22" font="vector" ratio="15" rot="MR0" align="bottom-center">CAUTION!</text>
 <text x="30.988" y="21.336" size="0.889" layer="22" font="vector" ratio="15" rot="MR180" align="bottom-center">TAPE BOTTOM
@@ -171,17 +171,17 @@ SHORTS</text>
 <wire x1="52.07" y1="7.874" x2="52.07" y2="13.208" width="0.2032" layer="22"/>
 <wire x1="52.07" y1="17.018" x2="52.07" y2="21.844" width="0.2032" layer="22"/>
 <text x="52.07" y="15.24" size="0.889" layer="22" font="vector" ratio="15" rot="MR90" align="center">WIRE</text>
-<wire x1="94.742" y1="24.765" x2="94.742" y2="5.715" width="0.254" layer="20"/>
-<wire x1="94.742" y1="5.715" x2="62.7634" y2="5.715" width="0.254" layer="20"/>
-<text x="92.456" y="7.366" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">Y</text>
-<text x="92.202" y="17.272" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">Y</text>
-<text x="92.456" y="12.446" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">G</text>
-<text x="92.456" y="23.368" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">G</text>
-<text x="81.026" y="10.16" size="1.778" layer="22" font="vector" ratio="15" rot="SMR270" align="bottom-center">SRX</text>
-<text x="81.026" y="20.066" size="1.778" layer="22" font="vector" ratio="15" rot="SMR270" align="bottom-center">SRX</text>
+<wire x1="96.012" y1="24.765" x2="96.012" y2="5.715" width="0.254" layer="20"/>
+<wire x1="96.012" y1="5.715" x2="62.7634" y2="5.715" width="0.254" layer="20"/>
+<text x="93.726" y="7.366" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">Y</text>
+<text x="93.472" y="17.272" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">Y</text>
+<text x="93.726" y="12.446" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">G</text>
+<text x="93.726" y="23.368" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">G</text>
+<text x="82.296" y="10.16" size="1.778" layer="22" font="vector" ratio="15" rot="SMR270" align="bottom-center">SRX</text>
+<text x="82.296" y="20.066" size="1.778" layer="22" font="vector" ratio="15" rot="SMR270" align="bottom-center">SRX</text>
 <text x="62.23" y="15.24" size="1.651" layer="21" font="vector" ratio="15" rot="SR90" align="bottom-center"> CAN
 NETWORK</text>
-<wire x1="74.676" y1="5.588" x2="74.676" y2="24.892" width="0.508" layer="22"/>
+<wire x1="75.946" y1="5.588" x2="75.946" y2="24.892" width="0.508" layer="22"/>
 <wire x1="59.182" y1="24.765" x2="62.7634" y2="24.765" width="0.0254" layer="20" curve="180"/>
 <wire x1="62.7634" y1="5.715" x2="59.1566" y2="5.715" width="0.0254" layer="20" curve="180"/>
 <wire x1="57.15" y1="24.638" x2="57.15" y2="11.938" width="0.254" layer="20"/>
@@ -190,16 +190,21 @@ NETWORK</text>
 <wire x1="59.182" y1="7.62" x2="57.277" y2="5.715" width="0.254" layer="20"/>
 <wire x1="59.182" y1="24.765" x2="57.15" y2="24.765" width="0.254" layer="20"/>
 <wire x1="57.15" y1="24.765" x2="57.15" y2="24.638" width="0.0254" layer="20"/>
-<wire x1="62.7634" y1="24.765" x2="94.742" y2="24.765" width="0.254" layer="20"/>
+<wire x1="62.7634" y1="24.765" x2="96.012" y2="24.765" width="0.254" layer="20"/>
 <wire x1="59.1566" y1="5.715" x2="57.277" y2="5.715" width="0.254" layer="20"/>
 <text x="65.532" y="9.906" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">Y</text>
 <text x="65.532" y="17.78" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">Y</text>
 <text x="65.532" y="12.7" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">G</text>
 <text x="65.532" y="20.066" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">G</text>
-<text x="92.71" y="15.24" size="1.651" layer="21" font="vector" ratio="15" rot="R270" align="bottom-center">TALON</text>
-<wire x1="93.472" y1="8.128" x2="93.472" y2="13.462" width="0.2032" layer="22"/>
-<wire x1="93.472" y1="17.272" x2="93.472" y2="22.098" width="0.2032" layer="22"/>
-<text x="93.472" y="15.494" size="0.889" layer="22" font="vector" ratio="15" rot="MR90" align="center">WIRE</text>
+<text x="93.98" y="15.24" size="1.651" layer="21" font="vector" ratio="15" rot="R270" align="bottom-center">TALON</text>
+<wire x1="94.742" y1="8.128" x2="94.742" y2="13.462" width="0.2032" layer="22"/>
+<wire x1="94.742" y1="17.272" x2="94.742" y2="22.098" width="0.2032" layer="22"/>
+<text x="94.742" y="15.494" size="0.889" layer="22" font="vector" ratio="15" rot="MR90" align="center">WIRE</text>
+<text x="34.798" y="4.318" size="1.27" layer="21" font="vector" ratio="15" rot="R180" align="center-left">QUAD
+ENDCODER</text>
+<text x="65.278" y="14.986" size="1.651" layer="22" font="vector" ratio="15" rot="SMR270" align="bottom-center">SRX CAN
+BREAKOUT
+V3</text>
 </plain>
 <libraries>
 <library name="tekdemo">
@@ -777,21 +782,21 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="30.353" y="9.398" size="0.4064" layer="28" rot="MR90"/>
 </element>
 <element name="U$1" library="Stormbots" package="TALONSRX" value="" x="48.26" y="15.2654"/>
-<element name="JP1" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="73.406" y="7.62" smashed="yes" rot="R90">
-<attribute name="NAME" x="65.574" y="10.12" size="1.27" layer="25" ratio="15" rot="R90" align="bottom-center"/>
+<element name="JP1" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="74.676" y="7.62" smashed="yes" rot="R90">
+<attribute name="NAME" x="66.844" y="10.12" size="1.27" layer="25" ratio="15" rot="R90" align="bottom-center"/>
 </element>
-<element name="JP2" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="75.9968" y="12.6238" smashed="yes" rot="R270">
-<attribute name="NAME" x="83.8288" y="10.1238" size="1.27" layer="25" ratio="15" rot="R270" align="bottom-center"/>
+<element name="JP2" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="77.2668" y="12.6238" smashed="yes" rot="R270">
+<attribute name="NAME" x="85.0988" y="10.1238" size="1.27" layer="25" ratio="15" rot="R270" align="bottom-center"/>
 </element>
-<element name="JP3" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="75.9968" y="22.5298" smashed="yes" rot="R270">
-<attribute name="NAME" x="83.8288" y="20.0298" size="1.27" layer="25" ratio="15" rot="R270" align="bottom-center"/>
+<element name="JP3" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="77.2668" y="22.5298" smashed="yes" rot="R270">
+<attribute name="NAME" x="85.0988" y="20.0298" size="1.27" layer="25" ratio="15" rot="R270" align="bottom-center"/>
 </element>
-<element name="JP4" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="73.406" y="17.526" smashed="yes" rot="R90">
-<attribute name="NAME" x="65.574" y="20.026" size="1.27" layer="25" ratio="15" rot="R90" align="bottom-center"/>
+<element name="JP4" library="tekdemo" package="1824740000-2X-VERTICAL-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM-VERTICAL" x="74.676" y="17.526" smashed="yes" rot="R90">
+<attribute name="NAME" x="66.844" y="20.026" size="1.27" layer="25" ratio="15" rot="R90" align="bottom-center"/>
 </element>
 <element name="U$3" library="tekdemo" package="M2X07_SMD" value="M07X0220021321-00014TFLF" x="48.26" y="15.24" rot="MR270"/>
-<element name="JP5" library="tekdemo" package="1824740000-2X-STRAIGHT-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM" x="80.772" y="10.16" smashed="yes" rot="R270"/>
-<element name="JP6" library="tekdemo" package="1824740000-2X-STRAIGHT-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM" x="80.772" y="20.066" smashed="yes" rot="R270"/>
+<element name="JP5" library="tekdemo" package="1824740000-2X-STRAIGHT-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM" x="82.042" y="10.16" smashed="yes" rot="R270"/>
+<element name="JP6" library="tekdemo" package="1824740000-2X-STRAIGHT-SPRING-TERMINAL" value="M022.5MM-SPRING-TERM" x="82.042" y="20.066" smashed="yes" rot="R270"/>
 </elements>
 <signals>
 <signal name="QUADINDEX">
@@ -961,11 +966,11 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="JP5" pad="2A"/>
 <contactref element="JP2" pad="2A"/>
 <contactref element="JP2" pad="2B"/>
-<wire x1="84.772" y1="12.66" x2="82.0028" y2="12.6238" width="0.508" layer="16"/>
-<wire x1="82.0028" y1="12.6238" x2="77.772" y2="12.66" width="0.508" layer="16"/>
-<wire x1="77.772" y1="12.66" x2="76.0028" y2="12.6238" width="0.508" layer="16"/>
-<wire x1="76.0028" y1="12.6238" x2="73.4" y2="12.62" width="0.508" layer="16"/>
-<wire x1="73.4" y1="12.62" x2="67.4" y2="12.62" width="0.508" layer="16"/>
+<wire x1="86.042" y1="12.66" x2="83.2728" y2="12.6238" width="0.508" layer="16"/>
+<wire x1="83.2728" y1="12.6238" x2="79.042" y2="12.66" width="0.508" layer="16"/>
+<wire x1="79.042" y1="12.66" x2="77.2728" y2="12.6238" width="0.508" layer="16"/>
+<wire x1="77.2728" y1="12.6238" x2="74.67" y2="12.62" width="0.508" layer="16"/>
+<wire x1="74.67" y1="12.62" x2="68.67" y2="12.62" width="0.508" layer="16"/>
 </signal>
 <signal name="N$8">
 <contactref element="JP1" pad="2A"/>
@@ -974,11 +979,11 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="JP5" pad="1B"/>
 <contactref element="JP2" pad="1B"/>
 <contactref element="JP2" pad="1A"/>
-<wire x1="67.4" y1="7.62" x2="73.4" y2="7.62" width="0.508" layer="16"/>
-<wire x1="73.4" y1="7.62" x2="76.0028" y2="7.6238" width="0.508" layer="16"/>
-<wire x1="76.0028" y1="7.6238" x2="77.772" y2="7.66" width="0.508" layer="16"/>
-<wire x1="77.772" y1="7.66" x2="82.0028" y2="7.6238" width="0.508" layer="16"/>
-<wire x1="82.0028" y1="7.6238" x2="84.772" y2="7.66" width="0.508" layer="16"/>
+<wire x1="68.67" y1="7.62" x2="74.67" y2="7.62" width="0.508" layer="16"/>
+<wire x1="74.67" y1="7.62" x2="77.2728" y2="7.6238" width="0.508" layer="16"/>
+<wire x1="77.2728" y1="7.6238" x2="79.042" y2="7.66" width="0.508" layer="16"/>
+<wire x1="79.042" y1="7.66" x2="83.2728" y2="7.6238" width="0.508" layer="16"/>
+<wire x1="83.2728" y1="7.6238" x2="86.042" y2="7.66" width="0.508" layer="16"/>
 </signal>
 <signal name="N$1">
 <contactref element="JP3" pad="2A"/>
@@ -987,11 +992,11 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="JP6" pad="2B"/>
 <contactref element="JP4" pad="1B"/>
 <contactref element="JP4" pad="1A"/>
-<wire x1="84.772" y1="22.566" x2="82.0028" y2="22.5298" width="0.508" layer="16"/>
-<wire x1="82.0028" y1="22.5298" x2="77.772" y2="22.566" width="0.508" layer="16"/>
-<wire x1="77.772" y1="22.566" x2="76.0028" y2="22.5298" width="0.508" layer="16"/>
-<wire x1="76.0028" y1="22.5298" x2="73.4" y2="22.526" width="0.508" layer="16"/>
-<wire x1="73.4" y1="22.526" x2="67.4" y2="22.526" width="0.508" layer="16"/>
+<wire x1="86.042" y1="22.566" x2="83.2728" y2="22.5298" width="0.508" layer="16"/>
+<wire x1="83.2728" y1="22.5298" x2="79.042" y2="22.566" width="0.508" layer="16"/>
+<wire x1="79.042" y1="22.566" x2="77.2728" y2="22.5298" width="0.508" layer="16"/>
+<wire x1="77.2728" y1="22.5298" x2="74.67" y2="22.526" width="0.508" layer="16"/>
+<wire x1="74.67" y1="22.526" x2="68.67" y2="22.526" width="0.508" layer="16"/>
 </signal>
 <signal name="N$6">
 <contactref element="JP3" pad="1B"/>
@@ -1000,11 +1005,11 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="JP6" pad="1B"/>
 <contactref element="JP4" pad="2A"/>
 <contactref element="JP4" pad="2B"/>
-<wire x1="67.4" y1="17.526" x2="73.4" y2="17.526" width="0.508" layer="16"/>
-<wire x1="73.4" y1="17.526" x2="76.0028" y2="17.5298" width="0.508" layer="16"/>
-<wire x1="76.0028" y1="17.5298" x2="77.772" y2="17.566" width="0.508" layer="16"/>
-<wire x1="77.772" y1="17.566" x2="82.0028" y2="17.5298" width="0.508" layer="16"/>
-<wire x1="82.0028" y1="17.5298" x2="84.772" y2="17.566" width="0.508" layer="16"/>
+<wire x1="68.67" y1="17.526" x2="74.67" y2="17.526" width="0.508" layer="16"/>
+<wire x1="74.67" y1="17.526" x2="77.2728" y2="17.5298" width="0.508" layer="16"/>
+<wire x1="77.2728" y1="17.5298" x2="79.042" y2="17.566" width="0.508" layer="16"/>
+<wire x1="79.042" y1="17.566" x2="83.2728" y2="17.5298" width="0.508" layer="16"/>
+<wire x1="83.2728" y1="17.5298" x2="86.042" y2="17.566" width="0.508" layer="16"/>
 </signal>
 <signal name="N$9">
 <via x="64.77" y="21.844" extent="1-16" drill="1.27"/>
@@ -1013,10 +1018,24 @@ Please make sure your boards conform to these design rules.</description>
 <via x="64.77" y="8.128" extent="1-16" drill="1.27"/>
 </signal>
 <signal name="N$11">
-<via x="93.472" y="8.382" extent="1-16" drill="0.889"/>
+<via x="94.742" y="8.382" extent="1-16" drill="0.889"/>
 </signal>
 <signal name="N$12">
-<via x="93.472" y="22.352" extent="1-16" drill="0.889"/>
+<via x="94.742" y="22.352" extent="1-16" drill="0.889"/>
+</signal>
+<signal name="N$13">
+<polygon width="0.3048" layer="1" isolate="0.381">
+<vertex x="23.622" y="24.384"/>
+<vertex x="23.622" y="5.842"/>
+<vertex x="45.72" y="5.842"/>
+<vertex x="48.26" y="7.62"/>
+<vertex x="50.038" y="5.842"/>
+<vertex x="54.61" y="5.842"/>
+<vertex x="54.61" y="24.384"/>
+<vertex x="50.038" y="24.384"/>
+<vertex x="48.26" y="22.86"/>
+<vertex x="46.482" y="24.384"/>
+</polygon>
 </signal>
 </signals>
 </board>
