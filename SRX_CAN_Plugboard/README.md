@@ -15,4 +15,4 @@ This is a passive wiring board, and contains no active components.
 ## Bill Of Materials
 Quantity | Description                  | Part Number |link
 --------:|-----|------------------------|-------------|---
-4        |  2 slot vertical spring mount| Weidmuller 1824740000 | [Digikey](http://www.digikey.com/product-search/en?vendor=0&keywords=1824740000)
+4        |  2 slot vertical spring mount| Weidmuller 1825960000 | [Digikey](http://www.digikey.com/product-detail/en/1825960000/281-2124-ND/1094462)
