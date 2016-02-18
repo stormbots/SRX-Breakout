@@ -1,7 +1,7 @@
-# SRX CAN Plugboard
+# Talon SRX Dataport Breakout
  
 # Description
-Provides a spring plug for the SRX for connecting to the CAN network, similar to the other 2015 control system devices
+This board breaks out the Talon SRX pins into a more easily usable 3-wire configuration that's compatible with standard servo cabling.
 
 # FRC Regulations
 This is a passive device
