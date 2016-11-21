@@ -19,7 +19,7 @@ Connection Name | Pin 1 | Pin 2 | Pin 3 |Pin 4
 ---|---|---|---|---
  Quadrature Encoder |GND | 3.3V or 5V |Signal A | Signal B
 
- ### Gadgeteer Pin Usage Chart
+### Gadgeteer Pin Usage Chart
 The Gadgeteer passthrough port works exactly as the one on the SRX does, with the same pinout and shroud orientation. 
 Note, that compatibility issues will arise if both the Gadgeteer device and 3 wire device try to drive the same input line. This is called [bus contention](https://google.com/search?q=bus contention) and can result in incorrect operation or damage to your devices. 
 
