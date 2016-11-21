@@ -41,7 +41,7 @@ Quantity | Description                  | Part Number |link
 1        |  14-position 0.5" header | FCI 20021321-00014T4LF | [Digikey](https://www.digikey.com/product-detail/en/20021321-00014T4LF/609-3771-ND/2209082)
 2        |  10k resistor (0603 package) | Generic | [Digikey](https://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRCT-ND/729647)
 2        |  Jumper wires | Generic 22 gauge wire  | 
-1        | 10 pin 0.05" pitch shrouded socket  CNC Tech 3220-10-0100-00| [Digikey](PTH Version http://www.digikey.com/product-detail/en/3220-10-0100-00/1175-1627-ND/3883661)
+1        | 10 pin 0.05" pitch shrouded socket | CNC Tech 3220-10-0100-00| [Digikey](http://www.digikey.com/product-detail/en/3220-10-0100-00/1175-1627-ND/3883661) 
 
 
 ## Assembly
